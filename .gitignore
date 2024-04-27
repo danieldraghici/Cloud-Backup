@@ -1,5 +1,5 @@
 .idea/
-__pycache__
-*.class
-token.pickle
-credentials.json
+.venv/
+__pycache__/
+/token.pickle
+/credentials.json
